@@ -14,7 +14,7 @@
 	<name>pruebaapi1</name>
 	<description>Rest Spring boot</description>
 	<properties>
-		<java.version>11</java.version>
+		
 	</properties>
 	<dependencies>
 		<dependency>
